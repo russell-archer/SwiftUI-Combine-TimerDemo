@@ -1,3 +1,2 @@
-#  <#Title#>
+#  SwiftUI and Combine Timer Demo
 
-updated for Xcode 7
